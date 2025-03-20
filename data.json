@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "nombreCliente": "Ana López",
+      "fechaDeCambio": "2025-03-15",
+      "numeroDePlaca": "ABC-9876"
+    },
+    {
+      "nombreCliente": "Carlos Gómez",
+      "fechaDeCambio": "2025-03-18",
+      "numeroDePlaca": "DEF-1234"
+    },
+    {
+      "nombreCliente": "Luisa Fernanda Martínez",
+      "fechaDeCambio": "2025-03-20",
+      "numeroDePlaca": "GHI-5678"
+    }
+  ]
+}
