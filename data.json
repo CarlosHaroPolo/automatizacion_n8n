@@ -1,19 +1,25 @@
 {
-  "items": [
-    {
-      "nombreCliente": "Ana López",
-      "fechaDeCambio": "2025-03-15",
-      "numeroDePlaca": "ABC-987"
-    },
-    {
-      "nombreCliente": "Carlos Gómez",
-      "fechaDeCambio": "2025-03-18",
-      "numeroDePlaca": "DEF-123"
-    },
-    {
-      "nombreCliente": "Luisa Fernanda Martínez",
-      "fechaDeCambio": "2025-03-20",
-      "numeroDePlaca": "GHI-567"
-    }
-  ]
+    "items": [
+        {
+            "name": "carlos",
+            "placa": "ABC-987",
+            "k_actual": 140124,
+            "fecha_mantenimiento": "2024-06-29",
+            "fecha_proximoMantenimiento": "2024-12-29"
+        },
+        {
+            "name": "ana",
+            "placa": "XYZ-123",
+            "k_actual": 85000,
+            "fecha_mantenimiento": "2024-05-20",
+            "fecha_proximoMantenimiento": "2024-11-20"
+        },
+        {
+            "name": "luis",
+            "placa": "DEF-456",
+            "k_actual": 60000,
+            "fecha_mantenimiento": "2024-07-15",
+            "fecha_proximoMantenimiento": "2025-01-15"
+        }
+    ]
 }
